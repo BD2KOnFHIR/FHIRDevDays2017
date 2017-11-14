@@ -1,0 +1,5 @@
+<http://corporation.org/employee>
+    <http://schema.org/birthDate>
+     "1990-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+

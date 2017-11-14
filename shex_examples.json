@@ -1,0 +1,10 @@
+[
+    {
+        "schemaLabel": "FHIR Observation",
+        "schemaURL": "http://hl7.org/fhir/observation.shex",
+        "dataLabel": "sample glucose observation",
+        "dataURL": "http://test.fhir.org/r3/Observation/f001",
+        "queryMap": "<http://test.fhir.org/r3/Observation/f001>@<Observation>",
+        "status": "conformant"
+    }
+]

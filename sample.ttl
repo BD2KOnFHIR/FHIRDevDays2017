@@ -1,0 +1,7 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/1.0/> .
+@prefix : <http://corporation.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:employee#BobGleeson rdf:type  foaf:Person ;
+    <http://schema.org/birthDate> "1990-07-04"^^xsd:date .

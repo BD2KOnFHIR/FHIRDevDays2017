@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://schema.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://corporation.org/employee">
+    <ns1:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-07-04</ns1:birthDate>
+  </rdf:Description>
+</rdf:RDF>
